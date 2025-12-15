@@ -18,7 +18,7 @@
 <br />
 
 <p align="center">
-  <a href="#"><strong>➥ Live Demo</strong></a> • 
+  <a href="https://mouse-trail-effect.netlify.app/"><strong>➥ Live Demo</strong></a> • 
   <a href="#-features"><strong>Explore Features</strong></a> • 
   <a href="#-installation"><strong>Installation</strong></a>
 </p>
@@ -28,7 +28,8 @@
 ## 📸 Preview
 
 <div align="center"> 
-  <img src="https://via.placeholder.com/800x400?text=Upload+Your+Project+Screenshot+Here" alt="Project Screenshot" width="100%" />
+  <img src=https://i.postimg.cc/MHRD6TMC/image.png" alt="Project Screenshot" width="100%" />
+  <!-- <a href='https://postimg.cc/ppjKPc6x' target='_blank'><img src='https://i.postimg.cc/ppjKPc6x/image.png' border='0' alt='image'></a> -->
 </div>
 
 <br>
