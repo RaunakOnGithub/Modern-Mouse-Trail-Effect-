@@ -1,0 +1,59 @@
+/* A very basic CSS reset */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/* Set up the body for full height and basic font styles */
+html,
+body {
+    height: 100%;
+    width: 100%;
+    font-family: "Manrope", sans-serif;
+    background-color: #1e1e1e;
+    overflow-x: hidden;
+}
+
+h1{
+    color: #fff;
+    font-size: 5vw;
+    font-weight: 500;
+    user-select: none;
+    text-align: center;
+    margin-top: 279px;
+}
+P{
+    text-transform: uppercase;
+    text-align: center;
+    font-family: "DM Sans", sans-serif;
+    margin-top: 279px;
+    font-weight: 600;
+    font-size: 2.8vw;
+    user-select: none;
+}
+section{
+    position: relative;
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-content: center;
+    overflow: hidden;
+
+}
+.trail-container{
+    background-color: #fcfcfc;
+    
+}
+.trail-img{
+    position: absolute;
+    width: 200px;
+    height: 200px;
+    object-fit: cover;
+    border-radius: 4px;
+    transform-origin: center;
+    pointer-events: none;
+    will-change: transform;
+    border-radius: 10px;
+}
